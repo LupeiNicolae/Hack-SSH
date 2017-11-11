@@ -1,0 +1,11 @@
+c:\users\user\source\repos\HackSSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.deps.json
+c:\users\user\source\repos\HackSSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.runtimeconfig.json
+c:\users\user\source\repos\HackSSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.runtimeconfig.dev.json
+c:\users\user\source\repos\HackSSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.dll
+c:\users\user\source\repos\HackSSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.pdb
+c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.AssemblyInfoInputs.cache
+c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.AssemblyInfo.cs
+c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.dll
+c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.pdb
