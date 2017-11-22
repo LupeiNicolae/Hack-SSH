@@ -2043,7 +2043,7 @@
       ]
     },
     "System.Diagnostics.TraceSource/4.0.0": {
-      "sha512": "6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
+      "sha512": "HpSTDBmMs+Nk2GuFkU8ghFszkk319dWQyCcKdwAkwZi0uAnnblYifYXtrrt9UMjr4/P4rwm7omWkiU0ny1bd+g==",
       "type": "package",
       "path": "system.diagnostics.tracesource/4.0.0",
       "files": [
@@ -4154,7 +4154,7 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
+      "sha512": "TabMtgxFRaD/NWVkJSdJcXpjqWQ00lPi2BG5OFUM+QyMgBY1Rm84d7PbXsXhOgTfrv2TeEWs0QA/mH1TLmAtJw==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
@@ -4192,7 +4192,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.0.10": {
-      "sha512": "IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
+      "sha512": "tFBOJlr/+r16kPRUI0sUym7A3GlQa+J1zN8WkSLrduyBTpsgHRYNdDEnHj/KoLOKagbP3e9rHFaxdeTPro9s2w==",
       "type": "package",
       "path": "system.threading.threadpool/4.0.10",
       "files": [
@@ -4388,7 +4388,7 @@
       ]
     },
     "System.Xml.XPath/4.0.1": {
-      "sha512": "UWd1H+1IJ9Wlq5nognZ/XJdyj8qPE4XufBUkAW59ijsCPjZkZe0MUzKKJFBr+ZWBe5Wq1u1d5f2CYgE93uH7DA==",
+      "sha512": "Q6khlNWAwD4ylZSfzbwwfDXCXF4lGG1Og/qKwbT8fa6lzYhkvWC7LK6NZIixdadY85Tdyghg9l6FGd1jAI93cg==",
       "type": "package",
       "path": "system.xml.xpath/4.0.1",
       "files": [
@@ -4425,7 +4425,7 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.0.1": {
-      "sha512": "Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
+      "sha512": "phXMgt9z/gv3glscM3SqEbniZEi1+TBGdsuGIGW56mFO7aA1fhrzP1mW87o5Ri0uD5ecp0DUigBlvz65jjbiYQ==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "files": [
@@ -4488,11 +4488,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\HackSSH\\HackSSH\\HackSSH.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Hack-SSH\\HackSSH\\HackSSH.csproj",
       "projectName": "HackSSH",
-      "projectPath": "C:\\Users\\User\\source\\repos\\HackSSH\\HackSSH\\HackSSH.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Hack-SSH\\HackSSH\\HackSSH.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\HackSSH\\HackSSH\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Hack-SSH\\HackSSH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

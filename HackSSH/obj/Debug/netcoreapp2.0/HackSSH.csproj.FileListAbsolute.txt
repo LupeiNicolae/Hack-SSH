@@ -9,3 +9,14 @@ c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.Assem
 c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.AssemblyInfo.cs
 c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.dll
 c:\users\user\source\repos\HackSSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.pdb
+C:\Users\User\Documents\Hack-SSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.deps.json
+C:\Users\User\Documents\Hack-SSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.runtimeconfig.json
+C:\Users\User\Documents\Hack-SSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.runtimeconfig.dev.json
+C:\Users\User\Documents\Hack-SSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.dll
+C:\Users\User\Documents\Hack-SSH\HackSSH\bin\Debug\netcoreapp2.0\HackSSH.pdb
+C:\Users\User\Documents\Hack-SSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Hack-SSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Hack-SSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Hack-SSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.AssemblyInfo.cs
+C:\Users\User\Documents\Hack-SSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.dll
+C:\Users\User\Documents\Hack-SSH\HackSSH\obj\Debug\netcoreapp2.0\HackSSH.pdb
